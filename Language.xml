@@ -1,0 +1,3261 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Country name ="English" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Camera</item>
+        <item>Resolution</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Second</item>
+        <item>5 Seconds</item>
+        <item>10 Seconds</item>
+        <item>30 Seconds</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>Multi</item>
+        <item>Single</item>
+        <item>3 Pictures</item>
+        <item>6 Pictures</item>
+        <item>9 Pictures</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Resolution</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video Length</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Voice</item>
+        <item>OFF</item>
+        <item>ON</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Camera</item>
+        <item>Video</item>
+        <item>Camera &amp; Video</item>
+        <item>Language</item>
+        <item>Motion detetion</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>TV Mode</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Date/Time</item>
+        <item>Date Format</item>
+        <item>YY/MM/DD</item>
+        <item>DD/MM/YY</item>
+        <item>MM/DD/YY</item>
+        <item>Password ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Password</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Password</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Default</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Cancel</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+  <Country name ="Français" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>appareil photo</item>
+        <item>Résolution</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Seconde</item>
+        <item>5 Secondes</item>
+        <item>10 Secondes</item>
+        <item>30 Secondes</item>
+        <item>1 Min</item>
+        <item>5 Mins</item>
+        <item>10 Mins</item>
+        <item>30 Mins</item>
+        <item>Multi</item>
+        <item>Simple</item>
+        <item>3 Pictures</item>
+        <item>6 Pictures</item>
+        <item>9 Pictures</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Vidéo</item>
+        <item>Résolution</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Durée de la vidéo</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Voice</item>
+        <item>Désactive</item>
+        <item>Active</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>appareil photo</item>
+        <item>vidéo</item>
+        <item>Appareil photo et vidéo</item>
+        <item>Langues</item>
+        <item>Motion detetion</item>
+        <item>Supérieur</item>
+        <item>Normal</item>
+        <item>Faible</item>
+        <item>Mode de TV</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Date/Heure</item>
+        <item>Date Format</item>
+        <item>aa/mm/jj</item>
+        <item>jj/mm/aa</item>
+        <item>mm/jj/aa</item>
+        <item>Password ON/OFF</item>
+        <item>Désactive</item>
+        <item>Active</item>
+        <item>Mot de passe</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Prog. Déclenchement</item>
+        <item>Prog. Déclenchement 1</item>
+        <item>Prog. Déclenchement 2</item>
+        <item>Prog. Déclenchement 3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>Désactive</item>
+        <item>Active</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>Désactive</item>
+        <item>Active</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Mot de passe</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP ON/OFF</item>
+        <item>Désactive</item>
+        <item>Active</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Mot de passe</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Mot de passe</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Défaut</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Annuler</item>
+        <item>Oui</item>
+        <item>Non</item>
+        <item>Aucun</item>
+        <item>Quitter</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+  <Country name ="Deutsch" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Camera</item>
+        <item>Resolution</item>
+       <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Second</item>
+        <item>5 Seconds</item>
+        <item>10 Seconds</item>
+        <item>30 Seconds</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>Multi</item>
+        <item>Single</item>
+        <item>3 Pictures</item>
+        <item>6 Pictures</item>
+        <item>9 Pictures</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Resolution</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video Length</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Voice</item>
+        <item>OFF</item>
+        <item>ON</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Camera</item>
+        <item>Video</item>
+        <item>Camera &amp; Video</item>
+        <item>Language</item>
+        <item>Motion detetion</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>TV Mode</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Date/Time</item>
+        <item>Date Format</item>
+        <item>YY/MM/DD</item>
+        <item>DD/MM/YY</item>
+        <item>MM/DD/YY</item>
+        <item>Password ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Password</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Password</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Default</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Cancel</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+  <Country name ="Español" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Camera</item>
+        <item>Resolution</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Second</item>
+        <item>5 Seconds</item>
+        <item>10 Seconds</item>
+        <item>30 Seconds</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>Multi</item>
+        <item>Single</item>
+        <item>3 Pictures</item>
+        <item>6 Pictures</item>
+        <item>9 Pictures</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Resolution</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video Length</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Voice</item>
+        <item>OFF</item>
+        <item>ON</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Camera</item>
+        <item>Video</item>
+        <item>Camera &amp; Video</item>
+        <item>Language</item>
+        <item>Motion detetion</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>TV Mode</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Date/Time</item>
+        <item>Date Format</item>
+        <item>YY/MM/DD</item>
+        <item>DD/MM/YY</item>
+        <item>MM/DD/YY</item>
+        <item>Password ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Password</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Password</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Default</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Cancel</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+
+  <Country name ="Pусский" >
+    <PageMenu name ="Меню" >
+      <camera>
+        <item>Камера</item>
+        <item>Разрешение</item>
+        <item>16Мп</item>
+        <item>12Мп</item>
+        <item>8Мп</item>
+        <item>Интервал</item>
+        <item>1 секунда</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>Мульти</item>
+        <item>Один</item>
+        <item>3 фото</item>
+        <item>6 фото</item>
+        <item>9 фото</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Видео</item>
+        <item>Разрешение</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Длинна видео</item>
+        <item>10 сек</item>
+        <item>30 сек</item>
+        <item>60 сек</item>
+        <item>90 сек</item>
+        <item>Звук</item>
+        <item>Выкл</item>
+        <item>Вкл</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Настройка</item>
+        <item>Выбор</item>
+        <item>Камера</item>
+        <item>Видео</item>
+        <item>Камера+Видео</item>
+        <item>Язык</item>
+        <item>Дистанция</item>
+        <item>Высокая</item>
+        <item>Средняя</item>
+        <item>Низкая</item>
+        <item>ТВ выход</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Дата/Время</item>
+        <item>Формат Даты</item>
+        <item>ГГ/ММ/ДД</item>
+        <item>ДД/ММ/ГГ</item>
+        <item>ММ/ДД/ГГ</item>
+        <item>Пароль вкл/выкл</item>
+        <item>Выкл</item>
+        <item>Вкл</item>
+        <item>Парооль</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Таймер</item>
+        <item>Таймер1</item>
+        <item>Таймер2</item>
+        <item>Таймер3</item>
+        <item>Промежуток</item>
+        <item>Статус</item>
+        <item>Выкл</item>
+        <item>Вкл</item>
+        <item>Начало</item>
+        <item>Конец</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>ММС</item>
+        <item>Настройка ММС</item>
+        <item>ММС вкл/выкл</item>
+        <item>Выкл</item>
+        <item>Вкл</item>
+        <item>Установка ММС</item>
+        <item>Ручная</item>
+        <item>Авто</item>
+        <item>Страна</item>
+        <item>Оператор</item>
+        <item>Фото №./день</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>GPRS Установка</item>
+        <item>APN</item>
+        <item>Аккаунт</item>
+        <item>Пароль</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Настройки сети</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>PORT</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Уст. Телефон</item>
+        <item>Телефон1</item>
+        <item>Телефон2</item>
+        <item>Телефон3</item>
+        <item>Телефон4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Уст. Почты</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>SMTP Установка</item>
+        <item>SMTP Вкл/Выкл</item>
+        <item>Выкл</item>
+        <item>Вкл</item>
+        <item>SMNP Выбор</item>
+        <item>Ручная</item>
+        <item>Авто</item>
+        <item>Страна</item>
+        <item>Оператор</item>
+        <item>Фото №./день</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>GPRS Установка</item>
+        <item>APN</item>
+        <item>Аккаунт</item>
+        <item>Пароль</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Уст. Сервера</item>
+        <item>Сервер</item>
+        <item>Порт</item>
+        <item>Email</item>
+        <item>Пароль</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Установка</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Меню</item>
+        <item>ММС</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Сохранить</item>
+        <item>Сброс</item>
+        <item>Изменить</item>
+        <item>Об</item>
+        <item>Нагрузка</item>
+        <item>Сохранить СМТП</item>
+        <item>ОК</item>
+        <item>Отмена</item>
+        <item>Да</item>
+        <item>Нет</item>
+        <item>Нет</item>
+        <item>Выход</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+
+  <Country name ="Suomalainen" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Kamera</item>
+        <item>Resoluutio</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Sekuntia</item>
+        <item>5 Sekuntia</item>
+        <item>10 Sekuntia</item>
+        <item>30 Sekuntia</item>
+        <item>1 minuutti</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>Monikuvaus</item>
+        <item>Yksittäinen</item>
+        <item>3 kuvaa</item>
+        <item>6 kuvaa</item>
+        <item>9 kuvaa</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Resoluutio</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Videon pituus</item>
+        <item>10 Sekuntia</item>
+        <item>30 Sekuntia</item>
+        <item>60 Sekuntia</item>
+        <item>90 Sekuntia</item>
+        <item>Voice</item>
+        <item>Pois</item>
+        <item>Päällä</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Kamera</item>
+        <item>Video</item>
+        <item>Kamera &amp; Video</item>
+        <item>Kieli</item>
+        <item>Etäisyys</item>
+        <item>Korkea</item>
+        <item>Normal</item>
+        <item>Matala</item>
+        <item>TV tila</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Pvm/Aika</item>
+        <item>Pvm Muoto</item>
+        <item>vv/kk/pv</item>
+        <item>pv/kk/vv</item>
+        <item>kk/pv/vv</item>
+        <item>Salasana Päällä/Pois</item>
+        <item>Pois</item>
+        <item>Päällä</item>
+        <item>Salasana</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Ajastin</item>
+        <item>Ajastin 1</item>
+        <item>Ajastin 2</item>
+        <item>Ajastin 3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>Pois</item>
+        <item>Päällä</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>Pois</item>
+        <item>Päällä</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Salasana</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP ON/OFF</item>
+        <item>Pois</item>
+        <item>Päällä</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Salasana</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Password</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Oletus</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Peruuta</item>
+        <item>Kyllä</item>
+        <item>Ei</item>
+        <item>Ei yhtään</item>
+        <item>Poistu</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+  <Country name ="Svenska" >
+    <PageMenu name ="Meny" >
+      <camera>
+        <item>Kamera</item>
+        <item>Resolution</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Sekunder</item>
+        <item>5 Sekunder</item>
+        <item>10 Sekunder</item>
+        <item>30 Sekunder</item>
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>30 minuter</item>
+        <item>Flerbildstagning</item>
+        <item>Enskild</item>
+        <item>3 bilder</item>
+        <item>6 bilder</item>
+        <item>9 bilder</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Resolution</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video längd</item>
+        <item>10 Sekunder</item>
+        <item>30 Sekunder</item>
+        <item>60 Sekunder</item>
+        <item>90 Sekunder</item>
+        <item>Voice</item>
+        <item>Av</item>
+        <item>På</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Kamera</item>
+        <item>Video</item>
+        <item>Kamera &amp; Video</item>
+        <item>Språk</item>
+        <item>Distans</item>
+        <item>Hög</item>
+        <item>Normal</item>
+        <item>Låg</item>
+        <item>TV läge</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Datum/Tid</item>
+        <item>Datum Format</item>
+        <item>år/mån/dag</item>
+        <item>dag/mån/år</item>
+        <item>mån/dag/år</item>
+        <item>Lösenord På/Av</item>
+        <item>Av</item>
+        <item>På</item>
+        <item>Lösenord</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>Av</item>
+        <item>På</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS På/Av</item>
+        <item>Av</item>
+        <item>På</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Lösenord</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP På/Av</item>
+        <item>Av</item>
+        <item>På</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Lösenord</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Password</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Förvald</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Avbryt</item>
+        <item>Ja</item>
+        <item>Nej</item>
+        <item>Ingen</item>
+        <item>Avsluta</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+
+  <Country name ="中文" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>相机</item>
+        <item>分辨率</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>间隔</item>
+        <item>1 秒</item>
+        <item>5 秒</item>
+        <item>10 秒</item>
+        <item>30 秒</item>
+        <item>1 分钟</item>
+        <item>5 分钟</item>
+        <item>10 分钟</item>
+        <item>30 分钟</item>
+        <item>张数</item>
+        <item>单张照片</item>
+        <item>3 张照片</item>
+        <item>6 张照片</item>
+        <item>9 张照片</item>
+        <item>感光度</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>视频</item>
+        <item>分辨率</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>视频长度</item>
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>60秒</item>
+        <item>90秒</item>
+        <item>噪声</item>
+        <item>关</item>
+        <item>开</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>设置</item>
+        <item>工作模式</item>
+        <item>相机</item>
+        <item>视频</item>
+        <item>相机 &amp; 视频</item>
+        <item>语言</item>
+        <item>距离</item>
+        <item>远</item>
+        <item>正常</item>
+        <item>近</item>
+        <item>电视模式</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>日期/时间</item>
+        <item>日期格式</item>
+        <item>年/月/日</item>
+        <item>日/月/年</item>
+        <item>月/日/年</item>
+        <item>密码 开/关</item>
+        <item>关</item>
+        <item>开</item>
+        <item>密码</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>定时器</item>
+        <item>定时器1</item>
+        <item>定时器2</item>
+        <item>定时器3</item>
+        <item>定时循环</item>
+        <item>状态</item>
+        <item>关</item>
+        <item>开</item>
+        <item>开始时间</item>
+        <item>结束时间</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>短信</item>
+        <item>短信设置</item>
+        <item>短信 开/关</item>
+        <item>关</item>
+        <item>开</item>
+        <item>短信模式</item>
+        <item>手工</item>
+        <item>自动</item>
+        <item>国家</item>
+        <item>运营商</item>
+        <item>图片数量/天</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>通用分组无线业务设置</item>
+        <item>接入点名称</item>
+        <item>账号</item>
+        <item>密码</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>服务器设置</item>
+        <item>多媒体信息服务中心</item>
+        <item>地址</item>
+        <item>端口</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>电话设置</item>
+        <item>电话设置1</item>
+        <item>电话设置2</item>
+        <item>电话设置3</item>
+        <item>电话设置4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>电子邮箱设置</item>
+        <item>电子邮箱1</item>
+        <item>电子邮箱2</item>
+        <item>电子邮箱3</item>
+        <item>电子邮箱4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>简单邮件传输</item>
+        <item>简单邮件传输设置</item>
+        <item>简单邮件传输 开/关</item>
+        <item>关</item>
+        <item>开</item>
+        <item>简单邮件传输模式</item>
+        <item>手工</item>
+        <item>自动</item>
+        <item>国家</item>
+        <item>运营商</item>
+        <item>图片数量/天</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs设置</item>
+        <item>接入点名称</item>
+        <item>账号</item>
+        <item>密码</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>服务器设置</item>
+        <item>服务器</item>
+        <item>端口</item>
+        <item>电子邮箱</item>
+        <item>密码</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>电子邮箱设置</item>
+        <item>电子邮箱1</item>
+        <item>电子邮箱2</item>
+        <item>电子邮箱3</item>
+        <item>电子邮箱4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>菜单</item>
+        <item>短信</item>
+        <item>简单邮件</item>
+        <item>相机参数设置</item>
+        <item>保存</item>
+        <item>默认</item>
+        <item>修改</item>
+        <item>关于</item>
+        <item>载入</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Cancel</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+  <Country name ="Japanese" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Camera</item>
+        <item>解像度</item>
+        <item>1200万画素</item>
+        <item>800万画素</item>
+        <item>500万画素</item>
+        <item>写真間隔</item>
+        <item>1秒</item>
+        <item>5秒</item>
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>1分钟</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>30分钟</item>
+        <item>写真枚数</item>
+        <item>1枚</item>
+        <item>3枚</item>
+        <item>6枚</item>
+        <item>9枚</item>
+        <item>ISO感度</item>
+      </camera>
+
+      <video>
+        <!--カメラ設定-->
+        <item>録画映像</item>
+        <item>解像度</item>
+        <item>1080P（1440×1080px）</item>
+        <item>720P（1280×720px）</item>
+        <item>VGA（640×480px）</item>
+        <item>QVGA（320×240px）</item>
+        <item>録画時間</item>
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>60秒</item>
+        <item>90秒</item>
+        <item>音声</item>
+        <item>OFF</item>
+        <item>ON</item>
+      </video>
+
+      <setup>
+        <!--パラメータ設定-->
+        <item>設定</item>
+        <item>録画モード</item>
+        <item>写真</item>
+        <item>映像</item>
+        <item>写真 &amp; 映像</item>
+        <item>言語</item>
+        <item>センサー距離</item>
+        <item>遠い</item>
+        <item>標準</item>
+        <item>近い</item>
+        <item>ビデオ規格</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>日付/時間</item>
+        <item>日付表示</item>
+        <item>年/月/日</item>
+        <item>日/月/年</item>
+        <item>月/日/年</item>
+        <item>パスワード設定</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>パスワード</item>
+      </setup>
+
+
+      <timer>
+        <!--時間設定-->
+        <item>時間帯</item>
+        <item>時間帯1</item>
+        <item>時間帯2</item>
+        <item>時間帯3</item>
+        <item>定時循環</item>
+        <item>状態</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>開始時間</item>
+        <item>終了時間</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>MMS設定（日本では使用出来ません。）</item>
+        <item>MMS設定</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>MMSモード</item>
+        <item>手動</item>
+        <item>自動</item>
+        <item>国家</item>
+        <item>運営会社</item>
+        <item>写真枚数/日</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs設定</item>
+        <item>APN</item>
+        <item>ユーザーID</item>
+        <item>パスワード</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>IP設定</item>
+        <item>MMSC</item>
+        <item>IPアドレス</item>
+        <item>ポート番号</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>電話設定</item>
+        <item>電話設定1</item>
+        <item>電話設定2</item>
+        <item>電話設定3</item>
+        <item>電話設定4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email設定</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>SMTP設定（日本では使用出来ません。）</item>
+        <item>SMTP設定</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>SMTPモード</item>
+        <item>手動</item>
+        <item>自動</item>
+        <item>国家</item>
+        <item>運営会社</item>
+        <item>写真枚数/日</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs設定</item>
+        <item>APN</item>
+        <item>ユーザーID</item>
+        <item>パスワード</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>サーバ設定</item>
+        <item>サーバ</item>
+        <item>ポート番号</item>
+        <item>Email</item>
+        <item>パスワード</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email設定</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>メニュー</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMS設定</item>
+        <item>保存</item>
+        <item>初期値</item>
+        <item>修正</item>
+        <item>About</item>
+        <item>ダウンロード</item>
+        <item>SMTP保存</item>
+        <item>OK</item>
+        <item>キャンセル</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>なし</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+  <Country name ="Norwegian" >
+    <PageMenu name ="Meny" >
+      <camera>
+        <item>Camera</item>
+        <item>oppløsning</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Intervall</item>
+        <item>1 Sekund</item>
+        <item>5 Sekunder</item>
+        <item>10 Sekunder</item>
+        <item>30 Sekunder</item>
+        <item>1 Minutt</item>
+        <item>5 Minutter</item>
+        <item>10 Minutter</item>
+        <item>30 Minutter</item>
+        <item>Multi</item>
+        <item>Enkelt</item>
+        <item>3 Bilder</item>
+        <item>6 Bilder</item>
+        <item>9 Bilder</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>oppløsning</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video lengde</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Mikrofon</item>
+        <item>Av</item>
+        <item>PÅ</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Oppsett</item>
+        <item>Modus</item>
+        <item>Kamera</item>
+        <item>Video</item>
+        <item>Kamera &amp; Video</item>
+        <item>Språk</item>
+        <item>Avstand</item>
+        <item>Lang</item>
+        <item>Normal</item>
+        <item>Kort</item>
+        <item>TV modus</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Dato/Tid</item>
+        <item>Dato Format</item>
+        <item>ÅÅ/MM/DD</item>
+        <item>DD/MM/ÅÅ</item>
+        <item>MM/DD/ÅÅ</item>
+        <item>Passord AV/PÅ</item>
+        <item>AV</item>
+        <item>PÅ</item>
+        <item>Passord</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>AV</item>
+        <item>PÅ</item>
+        <item>Start Tid</item>
+        <item>Slutt Tid</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>MMS Oppsett</item>
+        <item>MMS PÅ/AV</item>
+        <item>AV</item>
+        <item>PÅ</item>
+        <item>MMS MODUS</item>
+        <item>Manuell</item>
+        <item>Auto</item>
+        <item>Land</item>
+        <item>Operatør</item>
+        <item>Bilder pr./dag</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Oppsett</item>
+        <item>APN</item>
+        <item>Bruker konto</item>
+        <item>Passord</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server oppsett</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Telefon oppsett</item>
+        <item>Telefon1</item>
+        <item>Telefon2</item>
+        <item>Telefon3</item>
+        <item>Telefon4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Epost oppsett</item>
+        <item>Epost1</item>
+        <item>Epost2</item>
+        <item>Epost3</item>
+        <item>Epost4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Oppsett</item>
+        <item>SMTP AV/PÅ</item>
+        <item>AV</item>
+        <item>PÅ</item>
+        <item>SMTP MODUS</item>
+        <item>Manuell</item>
+        <item>Auto</item>
+        <item>Land</item>
+        <item>Operatør</item>
+        <item>Bilder pr./dag</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs oppsett</item>
+        <item>APN</item>
+        <item>Bruker konto</item>
+        <item>Passord</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server oppsett</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Epost</item>
+        <item>Passord</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Epost oppsett</item>
+        <item>Epost1</item>
+        <item>Epost2</item>
+        <item>Epost3</item>
+        <item>Epost4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Meny</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Lagre</item>
+        <item>Standard</item>
+        <item>Modifiser</item>
+        <item>OM</item>
+        <item>Last inn</item>
+        <item>Lagre Smtp</item>
+        <item>OK</item>
+        <item>Kanseler</item>
+        <item>Ja</item>
+        <item>Nei</item>
+        <item>Ingen</item>
+        <item>Avslutt</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+  <Country name ="Eesti" >
+    <PageMenu name ="Men  " >
+      <camera>
+        <item>Kaamera</item>
+        <item>Resolutsioon</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Intervall</item>
+        <item>1 Sekund</item>
+        <item>5 Sekundit</item>
+        <item>10 Sekundit</item>
+        <item>30 Sekundit</item>
+        <item>1 Minut</item>
+        <item>5 Minutit</item>
+        <item>10 Minutit</item>
+        <item>30 Minutit</item>
+        <item>Pilte</item>
+        <item>Uks</item>
+        <item>3 Pilti</item>
+        <item>6 Pilti</item>
+        <item>9 Pilti</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--ÊÓÆμÉèÖÃ-->
+        <item>Video</item>
+        <item>Resolutsioon</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video pikkus</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Heli</item>
+        <item>OFF</item>
+        <item>ON</item>
+      </video>
+
+      <setup>
+        <!--²ÎÊýÉèÖÃ-->
+        <item>Seaded</item>
+        <item>Reziim</item>
+        <item>Kaamera</item>
+        <item>Video</item>
+        <item>Kaamera &amp; Video</item>
+        <item>Keel</item>
+        <item>Distants</item>
+        <item>Kauge</item>
+        <item>Normaal</item>
+        <item>Luhike</item>
+        <item>TV Reziim</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Kuupaev/kellaaeg</item>
+        <item>Kuupaeva Formaat</item>
+        <item>AA/KK/PP</item>
+        <item>PP/KK/AA</item>
+        <item>KK/PP/AA</item>
+        <item>Salasona ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Salasona</item>
+      </setup>
+
+      <timer>
+        <!--Ê±¼äÉèÖÃ-->
+        <item>Taimer</item>
+        <item>Taimer1</item>
+        <item>Taimer2</item>
+        <item>Taimer3</item>
+        <item>Ajavahemik</item>
+        <item>Olek</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Alguse aeg</item>
+        <item>Lopu aeg</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Seaded</item>
+        <item>MMS ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>MMS Reziim</item>
+        <item>Kasitsi</item>
+        <item>Automaatne</item>
+        <item>Riik</item>
+        <item>Operaator</item>
+        <item>Piltide arv paevas</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Seaded</item>
+        <item>APN</item>
+        <item>Kasutajanimi</item>
+        <item>Salasona</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Serveri Seaded</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Telefoni seaded</item>
+        <item>Telefon1</item>
+        <item>Telefon2</item>
+        <item>Telefon3</item>
+        <item>Telefon4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Emaili Seaded</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Seaded</item>
+        <item>SMTP ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>SMTP Reziim</item>
+        <item>Kasitsi</item>
+        <item>Automaatne</item>
+        <item>Riik</item>
+        <item>Operaator</item>
+        <item>Piltide arv paevas</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Seaded</item>
+        <item>APN</item>
+        <item>Kasutajanimi</item>
+        <item>Salasona</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Serveri seaded</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Salasona</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Seaded</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Men</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Salvesta</item>
+        <item>Vaikimisi</item>
+        <item>Muuda</item>
+        <item>Teave</item>
+        <item>Laadi</item>
+        <item>Salvesta Smtp</item>
+        <item>OK</item>
+        <item>Tuhista</item>
+        <item>Jah</item>
+        <item>Ei</item>
+        <item>Ei</item>
+        <item>Valju</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+
+  <Country name ="Dansk" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Kamera</item>
+        <item>Opløsning</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Sekund</item>
+        <item>5 Sekunder</item>
+        <item>10 Sekunder</item>
+        <item>30 Sekunder</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>Multi</item>
+        <item>Enkelt</item>
+        <item>3 Billeder</item>
+        <item>6 Billeder</item>
+        <item>9 Billeder</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Opløsning</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video Længde</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Lyd</item>
+        <item>FRA</item>
+        <item>TIL</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Camera</item>
+        <item>Video</item>
+        <item>Camera &amp; Video</item>
+        <item>Language</item>
+        <item>Motion detetion</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>TV Mode</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Date/Time</item>
+        <item>Date Format</item>
+        <item>YY/MM/DD</item>
+        <item>DD/MM/YY</item>
+        <item>MM/DD/YY</item>
+        <item>Password ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Password</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>OFF</item>
+        <item>TIL</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>FRA</item>
+        <item>TIL</item>
+        <item>MMS MODE</item>
+        <item>Manuel</item>
+        <item>Auto</item>
+        <item>Land</item>
+        <item>Udbyder</item>
+        <item>Billede No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs indstilling</item>
+        <item>APN</item>
+        <item>Konto</item>
+        <item>Adgangskode</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server indstilling</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Tlf. indstilling</item>
+        <item>Tlf. 1</item>
+        <item>Tlf. 2</item>
+        <item>Tlf. 3</item>
+        <item>Tlf. 4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>E-mail indstilling</item>
+        <item>E-mail 1</item>
+        <item>E-mail 2</item>
+        <item>E-mail 3</item>
+        <item>E-mail 4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp indstilling</item>
+        <item>SMTP ON/OFF</item>
+        <item>FRA</item>
+        <item>TIL</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs indstilling</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Adgangskode</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server indstilling</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>E-mail</item>
+        <item>Adgangskode</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>E-mail indstilling</item>
+        <item>E-mail 1</item>
+        <item>E-mail 2</item>
+        <item>E-mail 3</item>
+        <item>E-mail 4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Default</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Annuller</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+
+
+  <Country name ="Nederlands" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Camera</item>
+        <item>Oplossing</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 seconde</item>
+        <item>5 seconden</item>
+        <item>10 seconden</item>
+        <item>30 seconden</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>Multi</item>
+        <item>Enkel</item>
+        <item>3 foto’s</item>
+        <item>6 foto’s</item>
+        <item>9 foto’s</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Oplossing</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Videolengte</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Stem</item>
+        <item>UIT</item>
+        <item>AAN</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Instelling</item>
+        <item>Mode</item>
+        <item>Camera</item>
+        <item>Video</item>
+        <item>Camera &amp; Video</item>
+        <item>Taal</item>
+        <item>Afstand</item>
+        <item>Hoog</item>
+        <item>Medium</item>
+        <item>Laag</item>
+        <item>TV Mode</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Datum/tijd</item>
+        <item>Date Format</item>
+        <item>JJ/MM/DD</item>
+        <item>DD/MM/JJ</item>
+        <item>MM/DD/JJ</item>
+        <item>Wachtwoord AAN/UIT</item>
+        <item>UIT</item>
+        <item>AAN</item>
+        <item>Wachtwoord</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>UIT</item>
+        <item>AAN</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS AAN/UIT</item>
+        <item>UIT</item>
+        <item>AAN</item>
+        <item>MMS MODE</item>
+        <item>Handleiding</item>
+        <item>Auto</item>
+        <item>Land</item>
+        <item>Provider</item>
+        <item>Foto No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Wachtwoord</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Telefoonnummer Setting</item>
+        <item>Telefoonnummer 1</item>
+        <item>Telefoonnummer 2</item>
+        <item>Telefoonnummer 3</item>
+        <item>Telefoonnummer4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>e-mail Setting</item>
+        <item>e-mail 1</item>
+        <item>e-mail 2</item>
+        <item>e-mail 3</item>
+        <item>e-mail 4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP AAN/UIT</item>
+        <item>UIT</item>
+        <item>AAN</item>
+        <item>SMTP MODE</item>
+        <item>Handleiding</item>
+        <item>Auto</item>
+        <item>Land</item>
+        <item>Provider</item>
+        <item>Foto No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Wachtwoord</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Poort</item>
+        <item>e-mail</item>
+        <item>Wachtwoord</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>e-mail Setting</item>
+        <item>e-mail 1</item>
+        <item>e-mail 2</item>
+        <item>e-mail 3</item>
+        <item>e-mail 4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Opslaan</item>
+        <item>Default</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Opslaan Smtp</item>
+        <item>OK</item>
+        <item>Annuleren</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Verlaten</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+
+  <Country name ="Polski" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Camera</item>
+        <item>Resolution</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Second</item>
+        <item>5 Seconds</item>
+        <item>10 Seconds</item>
+        <item>30 Seconds</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>Multi</item>
+        <item>Single</item>
+        <item>3 Pictures</item>
+        <item>6 Pictures</item>
+        <item>9 Pictures</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Resolution</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video Length</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Voice</item>
+        <item>OFF</item>
+        <item>ON</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Camera</item>
+        <item>Video</item>
+        <item>Camera &amp; Video</item>
+        <item>Language</item>
+        <item>Motion detetion</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>TV Mode</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Date/Time</item>
+        <item>Date Format</item>
+        <item>YY/MM/DD</item>
+        <item>DD/MM/YY</item>
+        <item>MM/DD/YY</item>
+        <item>Password ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Password</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Password</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Default</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Cancel</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+  <Country name ="Português" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Camera</item>
+        <item>Resolution</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Second</item>
+        <item>5 Seconds</item>
+        <item>10 Seconds</item>
+        <item>30 Seconds</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>Multi</item>
+        <item>Single</item>
+        <item>3 Pictures</item>
+        <item>6 Pictures</item>
+        <item>9 Pictures</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Resolution</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video Length</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Voice</item>
+        <item>OFF</item>
+        <item>ON</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Camera</item>
+        <item>Video</item>
+        <item>Camera &amp; Video</item>
+        <item>Language</item>
+        <item>Motion detetion</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>TV Mode</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Date/Time</item>
+        <item>Date Format</item>
+        <item>YY/MM/DD</item>
+        <item>DD/MM/YY</item>
+        <item>MM/DD/YY</item>
+        <item>Password ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Password</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Password</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Default</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Cancel</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+
+
+  <Country name ="Italiano" >
+    <PageMenu name ="Menu" >
+      <camera>
+        <item>Camera</item>
+        <item>Resolution</item>
+        <item>16M</item>
+        <item>12M</item>
+        <item>8M</item>
+        <item>Interval</item>
+        <item>1 Second</item>
+	<item>2 Seconds</item>
+        <item>5 Seconds</item>
+        <item>10 Seconds</item>
+        <item>30 Seconds</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>Multi</item>
+        <item>Single</item>
+        <item>3 Pictures</item>
+        <item>6 Pictures</item>
+        <item>9 Pictures</item>
+        <item>ISO</item>
+      </camera>
+
+      <video>
+        <!--视频设置-->
+        <item>Video</item>
+        <item>Resolution</item>
+        <item>1080P</item>
+        <item>720P</item>
+        <item>WVGA</item>
+        <item>QVGA</item>
+        <item>Video Length</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+        <item>Voice</item>
+        <item>OFF</item>
+        <item>ON</item>
+      </video>
+
+      <setup>
+        <!--参数设置-->
+        <item>Setup</item>
+        <item>Mode</item>
+        <item>Camera</item>
+        <item>Video</item>
+        <item>Camera &amp; Video</item>
+        <item>Language</item>
+        <item>Motion detetion</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>TV Mode</item>
+        <item>NTSC</item>
+        <item>PAL</item>
+        <item>Date/Time</item>
+        <item>Date Format</item>
+        <item>YY/MM/DD</item>
+        <item>DD/MM/YY</item>
+        <item>MM/DD/YY</item>
+        <item>Password ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Password</item>
+      </setup>
+
+      <timer>
+        <!--时间设置-->
+        <item>Timer</item>
+        <item>Timer1</item>
+        <item>Timer2</item>
+        <item>Timer3</item>
+        <item>Timer Lapse</item>
+        <item>Status</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Start Time</item>
+        <item>End Time</item>
+      </timer>
+
+    </PageMenu>
+
+    <PageMms name ="MMS">
+      <!--mms setting-->
+      <mms>
+        <item>MMS</item>
+        <item>Mms Setting</item>
+        <item>MMS ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>MMS MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </mms>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>MMSC</item>
+        <item>IP</item>
+        <item>Port</item>
+      </server>
+
+      <!--phone setting-->
+      <phone>
+        <item>Phone Setting</item>
+        <item>Phone1</item>
+        <item>Phone2</item>
+        <item>Phone3</item>
+        <item>Phone4</item>
+      </phone>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+
+    </PageMms>
+
+    <PageSmtp name ="SMTP">
+      <!--mms setting-->
+      <smtp>
+        <item>SMTP</item>
+        <item>Smtp Setting</item>
+        <item>SMTP ON/OFF</item>
+        <item>OFF</item>
+        <item>ON</item>
+        <item>SMTP MODE</item>
+        <item>Manual</item>
+        <item>Auto</item>
+        <item>Country</item>
+        <item>Operator</item>
+        <item>Picture No./day</item>
+      </smtp>
+
+      <!--gprs setting-->
+      <gprs>
+        <item>Gprs Setting</item>
+        <item>APN</item>
+        <item>Account</item>
+        <item>Password</item>
+      </gprs>
+
+      <!--server setting-->
+      <server>
+        <item>Server Setting</item>
+        <item>Server</item>
+        <item>Port</item>
+        <item>Email</item>
+        <item>Password</item>
+      </server>
+
+      <!--email setting-->
+      <email>
+        <item>Email Setting</item>
+        <item>Email1</item>
+        <item>Email2</item>
+        <item>Email3</item>
+        <item>Email4</item>
+      </email>
+    </PageSmtp>
+
+    <Button>
+      <ButtonContent name ="button">
+        <item>Menu</item>
+        <item>MMS</item>
+        <item>SMTP</item>
+        <item>MMSCONFIG</item>
+        <item>Save</item>
+        <item>Default</item>
+        <item>Modify</item>
+        <item>About</item>
+        <item>Load</item>
+        <item>Save Smtp</item>
+        <item>OK</item>
+        <item>Cancel</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>None</item>
+        <item>Exit</item>
+      </ButtonContent>
+    </Button>
+
+  </Country>
+  
+</root>
